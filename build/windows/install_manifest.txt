@@ -1,0 +1,13 @@
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/fonts/rubik_medium.ttf
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/fonts/rubik_regular.ttf
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/images/logo.png
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Hamza Ali/development/projects/loginform/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

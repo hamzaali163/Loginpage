@@ -1,0 +1,10 @@
+^C:\USERS\HAMZA ALI\DEVELOPMENT\PROJECTS\LOGINFORM\BUILD\WINDOWS\CMAKEFILES\5B260DB8D9EE719567A2A3AC0485ABB4\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
